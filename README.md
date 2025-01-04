@@ -1,3 +1,3 @@
-# FastAPI Learning Project
+# Model Run Submission
 
-Just a simple project to mess around with FastAPI.
+Simple project with FastAPI backend and Streamlit frontend.
