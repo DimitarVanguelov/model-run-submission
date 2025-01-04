@@ -6,13 +6,15 @@ readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
     "fastapi>=0.115.6",
+    "httpx>=0.28.1",
+    "polars>=1.19.0",
+    "streamlit>=1.41.1",
     "uvicorn>=0.34.0",
 ]
 
 [dependency-groups]
 dev = [
     "ipykernel>=6.29.5",
-    "polars>=1.19.0",
     "pre-commit>=4.0.1",
     "pyright[nodejs]>=1.1.391",
     "pytest>=8.3.4",
