@@ -1,0 +1,8 @@
+POST http://localhost:8000/finalruns/
+Content-Type: application/json
+
+{
+    "run_id" : "15b79f4a-6214-47eb-b57d-b83f87d8fcd6",
+    "user_submitted": "user_2",
+    "datetime_submitted": "2025-01-04 12:01:00"
+}
