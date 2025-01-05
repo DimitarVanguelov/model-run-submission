@@ -1,14 +1,152 @@
 [
   {
-    "run_id": "7b14a328-2182-4b1f-9e5e-60afbb52c39f",
-    "model_result": 8.09
+    "run_id": "2510280c-6b7d-4064-802f-10937858e3e9",
+    "valuation_date": "2024-12-02",
+    "model_result": 65.59665661534922
   },
   {
-    "run_id": "30130acc-f934-4ed4-a753-405b2573bd03",
-    "model_result": 11.326
+    "run_id": "f1e75e7a-8c00-48d2-b668-d207f023d4f6",
+    "valuation_date": "2024-12-02",
+    "model_result": 59.386717082130005
   },
   {
-    "run_id": "30c150b9-006f-4c45-8414-6c0ef8f50017",
-    "model_result": 12.944
+    "run_id": "3b84ae2d-7fe3-49f1-9747-fef18c5600f6",
+    "valuation_date": "2024-12-02",
+    "model_result": 64.83080682681658
+  },
+  {
+    "run_id": "b29b985e-b88d-4025-923f-efd9c468a1ee",
+    "valuation_date": "2024-12-03",
+    "model_result": 36.84252118664416
+  },
+  {
+    "run_id": "e31f3f3c-1c96-450b-9e7e-07a694c46a3f",
+    "valuation_date": "2024-12-03",
+    "model_result": 31.468215208663707
+  },
+  {
+    "run_id": "8454ee7b-222c-444d-8ad9-7cab669eb03f",
+    "valuation_date": "2024-12-03",
+    "model_result": 35.82776975841475
+  },
+  {
+    "run_id": "cf7d6788-fbb6-4bd3-8b38-61d4b7bc82d5",
+    "valuation_date": "2024-12-04",
+    "model_result": 41.711339878184695
+  },
+  {
+    "run_id": "be12025e-2f9e-4a55-9a31-72b090978f61",
+    "valuation_date": "2024-12-04",
+    "model_result": 16.873221430269012
+  },
+  {
+    "run_id": "e53e680c-ebe1-45ff-8a78-06086a66af70",
+    "valuation_date": "2024-12-04",
+    "model_result": 51.116847688050335
+  },
+  {
+    "run_id": "c24f8e69-1230-404a-a771-9a45a98c903f",
+    "valuation_date": "2024-12-05",
+    "model_result": 79.26845463988657
+  },
+  {
+    "run_id": "4cce665c-7a56-47a3-8bf9-5573bfa6042f",
+    "valuation_date": "2024-12-05",
+    "model_result": 38.418757202481736
+  },
+  {
+    "run_id": "05c74e2a-0ea7-489b-9078-b2c88dcf105f",
+    "valuation_date": "2024-12-05",
+    "model_result": 87.08837170356877
+  },
+  {
+    "run_id": "5d41b9f1-c179-412f-8423-b2b3f66f4928",
+    "valuation_date": "2024-12-06",
+    "model_result": 66.43993485086635
+  },
+  {
+    "run_id": "3593b6ab-b152-43b9-bb3b-08b40c7df891",
+    "valuation_date": "2024-12-06",
+    "model_result": 82.68201472894476
+  },
+  {
+    "run_id": "960b7352-a302-4c59-b9fc-e6c71c60e5f7",
+    "valuation_date": "2024-12-06",
+    "model_result": 49.132593968001025
+  },
+  {
+    "run_id": "bab50f37-874f-4b3c-b157-f14f43fc9979",
+    "valuation_date": "2024-12-09",
+    "model_result": 20.344134345381416
+  },
+  {
+    "run_id": "9e97bfe5-513d-4d49-8975-1ebb565c3024",
+    "valuation_date": "2024-12-09",
+    "model_result": 40.590384778245195
+  },
+  {
+    "run_id": "4ebc62f7-f490-4972-8114-e9c1dcb6aeee",
+    "valuation_date": "2024-12-09",
+    "model_result": 46.638919289020045
+  },
+  {
+    "run_id": "58d2bd14-7cfd-4f0e-b696-67c7f7d7f1a0",
+    "valuation_date": "2024-12-10",
+    "model_result": 13.410494557883512
+  },
+  {
+    "run_id": "ec2d0c42-3541-4622-aaff-f9533e1e337c",
+    "valuation_date": "2024-12-10",
+    "model_result": 31.572522971564243
+  },
+  {
+    "run_id": "3fa43ed0-75da-40c5-97a5-a9bacd1a10be",
+    "valuation_date": "2024-12-10",
+    "model_result": 36.08091833185028
+  },
+  {
+    "run_id": "a58fede4-5756-4f1f-8eb7-8d75b93d2e1b",
+    "valuation_date": "2024-12-11",
+    "model_result": 14.443815698630779
+  },
+  {
+    "run_id": "9b817364-6def-4417-a715-452f0430d5cc",
+    "valuation_date": "2024-12-11",
+    "model_result": 88.94866014799997
+  },
+  {
+    "run_id": "c6b54d88-d6fa-429f-a9e5-47c81d899b0d",
+    "valuation_date": "2024-12-11",
+    "model_result": 92.32789191180333
+  },
+  {
+    "run_id": "da6854a4-ef93-4302-9ffc-24467ad9e469",
+    "valuation_date": "2024-12-12",
+    "model_result": 80.99364835370181
+  },
+  {
+    "run_id": "68bcdecf-a580-4165-9546-c2b1bd6aac8a",
+    "valuation_date": "2024-12-12",
+    "model_result": 84.57158143488479
+  },
+  {
+    "run_id": "d3e1a1ab-0003-4840-a71d-f075034fdcfe",
+    "valuation_date": "2024-12-12",
+    "model_result": 31.500822062145563
+  },
+  {
+    "run_id": "ca796b1b-d328-47e1-96d7-44989098852b",
+    "valuation_date": "2024-12-13",
+    "model_result": 58.62336851099689
+  },
+  {
+    "run_id": "2ec8ea6c-22a5-49c9-a7f3-c9ce7cf15b36",
+    "valuation_date": "2024-12-13",
+    "model_result": 21.4249381716106
+  },
+  {
+    "run_id": "383b2838-f90f-437a-af81-1159b49a5e69",
+    "valuation_date": "2024-12-13",
+    "model_result": 34.64026888171424
   }
 ]
